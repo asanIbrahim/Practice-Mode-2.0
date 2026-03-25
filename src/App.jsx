@@ -5,7 +5,7 @@ function App() {
 console.log("values")
 return (
     <>
-      <h3> Practice Modes </h3>
+      <h3> Practice Mode</h3>
       <AppRoutes />
     </>
   )
